@@ -1,0 +1,11 @@
+ls: cannot access 'I*.txt': No such file or directory
+file_exists.sh
+greeting.sh
+head.sh
+indir.sh
+outerr.sh
+outerr2.sh
+rhyme.sh
+script.sh
+script2.sh
+tee.sh

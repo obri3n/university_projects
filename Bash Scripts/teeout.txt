@@ -1,0 +1,24 @@
+total 10
+-rwxr-xr-x 1 197609 197609 128 Oct  1 14:45 file_exists.sh
+-rwxr-xr-x 1 197609 197609  40 Oct  1 14:41 greeting.sh
+-rwxr-xr-x 1 197609 197609  32 Oct  1 14:43 head.sh
+-rwxr-xr-x 1 197609 197609  33 Oct  1 14:45 indir.sh
+-rwxr-xr-x 1 197609 197609  85 Oct  1 14:42 outerr.sh
+-rwxr-xr-x 1 197609 197609 109 Oct  1 14:47 outerr2.sh
+-rwxr-xr-x 1 197609 197609 151 Oct  1 14:41 rhyme.sh
+-rwxr-xr-x 1 197609 197609  34 Oct  1 14:42 script.sh
+-rwxr-xr-x 1 197609 197609  75 Oct  1 14:46 script2.sh
+-rwxr-xr-x 1 197609 197609  88 Oct  1 14:48 tee.sh
+.
+..
+file_exists.sh
+greeting.sh
+head.sh
+indir.sh
+outerr.sh
+outerr2.sh
+rhyme.sh
+script.sh
+script2.sh
+tee.sh
+teeout.txt
